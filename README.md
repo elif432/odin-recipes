@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple recipe website project that will demonstrate my newly learnt HTML skills. Also I will be using git commits to really learn how they work and by the end of this project hopefully I will have a better understanding of them.
